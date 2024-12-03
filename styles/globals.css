@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f5;
+  }
+  h1 {
+    text-align: center;
+    color: #d940b3;
+  }
+  .chart-container {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .color1 { color: #66ffff; }
+  .color2 { color: #8cbfe6; }
+  .color3 { color: #b380cc; }
+  .color4 { color: #d940b3; }
+  .color5 { color: #ff0099; }
+  
